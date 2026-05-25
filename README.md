@@ -1,4 +1,5 @@
-# 🚀 Sagar Jadhav — Personal Portfolio || https://portfolio-chi-lemon-alk6is7ng2.vercel.app
+# 🚀 Sagar Jadhav — Personal Portfolio
+https://portfolio-chi-lemon-alk6is7ng2.vercel.app
 
 A modern, single-page developer portfolio built with pure HTML, CSS, and vanilla JavaScript. Designed with a clean editorial aesthetic, smooth animations, and polished UI interactions.
 
